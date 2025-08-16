@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Task Manager application built with Kotlin Multiplatform. It supports Android and iOS platforms and allows users to manage their tasks effectively. The app features task creation, editing, deletion, and completion tracking. It also includes biometric authentication and haptic feedback for enhanced user experience.
+This is a Task Manager application built with Kotlin Multiplatform. It supports Android and iOS platforms and allows users to manage their tasks effectively. The app features task creation, editing, deletion, and completion tracking.
 
 ## Features
 
