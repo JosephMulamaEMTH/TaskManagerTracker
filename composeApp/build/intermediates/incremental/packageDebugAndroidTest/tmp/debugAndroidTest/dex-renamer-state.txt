@@ -1,0 +1,4 @@
+#Sat Aug 16 20:07:12 EAT 2025
+base.0=/home/danny/Desktop/KMP-Taskapp/composeApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
