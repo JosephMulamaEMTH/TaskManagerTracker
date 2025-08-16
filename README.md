@@ -15,7 +15,6 @@ This is a Task Manager application built with Kotlin Multiplatform. It supports 
 - **User Interface**
   - Beautiful and responsive UI using Jetpack Compose for Android and SwiftUI for iOS
   - Haptic feedback on task completion
-  - Biometric authentication (fingerprint or face recognition)
 
 ## APP LINK
 
